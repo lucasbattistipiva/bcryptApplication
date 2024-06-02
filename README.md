@@ -30,7 +30,7 @@ This project is a user login and registration system developed with Node.js and 
 1. Clone the repository:
    ```sh
    git clone https://github.com/lucasbattistipiva/bcryptApplication.git
-2. Node_modules
+2. Terminal
    ```sh
    npm i
 3. Informations
